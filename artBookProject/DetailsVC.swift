@@ -49,7 +49,7 @@ class DetailsVC: UIViewController, UIImagePickerControllerDelegate, UINavigation
                         if let artist = result.value(forKey: "artist") as? String {
                             artistText.text = artist
                         }
-                        if let year = result.value(forKey: "year") as? String {
+                        if let year = result.value(forKey: "year") as? Int {
                             yearText.text = String(year)
                         }
                         if let imageData = result.value(forKey: "image") as? Data {

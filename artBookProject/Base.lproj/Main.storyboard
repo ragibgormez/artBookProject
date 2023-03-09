@@ -85,7 +85,7 @@
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="PG4-8a-IRk"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <color key="backgroundColor" red="0.37647058823529411" green="0.59999999999999998" blue="0.40000000000000002" alpha="1" colorSpace="calibratedRGB"/>
                         <constraints>
                             <constraint firstItem="a8J-dd-riI" firstAttribute="trailing" secondItem="e49-g6-ROg" secondAttribute="trailing" id="5og-1U-qsS"/>
                             <constraint firstItem="Scv-MY-Fp2" firstAttribute="leading" secondItem="PG4-8a-IRk" secondAttribute="leading" constant="76" id="87m-yf-OuL"/>
